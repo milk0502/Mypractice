@@ -20,7 +20,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/edittext"
-        android:text="押して"/>
+        android:text="clear"/>
 <include
     layout="@layout/text_cal"
     android:layout_width="match_parent"
